@@ -68,16 +68,6 @@ class OnlyHoly:
 | **Десктоп** | WPF/WinForms приложения на C# |
 
 ---
-
-### 📂 Проекты
-
-<a href="https://github.com/onlyholy1337/telegram-stars-bot">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=onlyholy1337&repo=telegram-stars-bot&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/onlyholy1337/GiftHunter">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=onlyholy1337&repo=GiftHunter&theme=tokyonight&hide_border=true" />
-</a>
-
 ---
 
 ### 💬 Цитаты моих заказчиков
