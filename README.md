@@ -4,12 +4,11 @@
 
 <p align="center">
   <b>Telegram Bot Developer / Автоматизация / Скрипты</b><br>
-  <sub>50+ выполненных заказов на FunPay • пишу ботов пока ты спишь</sub>
 </p>
 
 <p align="center">
   <a href="https://funpay.com/users/4210009/"><img src="https://img.shields.io/badge/FunPay-Заказать-orange?style=for-the-badge" /></a>
-  <a href="https://t.me/hatenightmares"><img src="https://img.shields.io/badge/Telegram-@hatenightmares-blue?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+  <a href="https://t.me/dubag"><img src="https://img.shields.io/badge/Telegram-@dubag-blue?style=for-the-badge&logo=telegram&logoColor=white" /></a>
 </p>
 
 ---
@@ -85,7 +84,7 @@ class OnlyHoly:
 <p align="center">
   <b>нужен бот? скрипт? чудо? пиши</b><br><br>
   <a href="https://funpay.com/users/4210009/">🛒 FunPay</a> •
-  <a href="https://t.me/hatenightmares">💬 Telegram</a>
+  <a href="https://t.me/dubag">💬 Telegram</a>
   <br><br>
   <sub>если я не ответил — значит пишу очередного бота. подожди.</sub>
 </p>
