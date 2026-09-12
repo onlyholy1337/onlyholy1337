@@ -86,7 +86,7 @@ class OnlyHoly:
   <a href="https://funpay.com/users/4210009/">🛒 FunPay</a> •
   <a href="https://t.me/dubag">💬 Telegram</a>
   <br><br>
-  <sub>если я не ответил — спился/sub>
+  <sub>если я не ответил — спился</sub>
 </p>
 
 <p align="center">
